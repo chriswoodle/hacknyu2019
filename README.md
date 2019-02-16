@@ -34,3 +34,8 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# References 
+
+* https://markus.oberlehner.net/blog/using-the-google-maps-api-with-vue/
