@@ -10,6 +10,8 @@
             <span>|</span>
             <router-link to="/report">Report</router-link>
             <span>|</span>
+             <router-link to="/sharePay">SharePay</router-link>
+            <span>|</span>
             <router-link to="/about">About</router-link>
         </div>
         <router-view />
