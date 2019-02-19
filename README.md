@@ -2,6 +2,8 @@
 
 Created at HackNYU2019
 
+See project on [Devpost](https://devpost.com/software/rideable).
+
 ![heello](./screenshots/logo.png)
 
 ![heello](./screenshots/1.png)
